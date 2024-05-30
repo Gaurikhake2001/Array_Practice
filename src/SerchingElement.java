@@ -1,5 +1,6 @@
 //Write a Java program to test if an array contains a specific value.
 
+
 import java.util.Scanner;
 
 public class SerchingElement {

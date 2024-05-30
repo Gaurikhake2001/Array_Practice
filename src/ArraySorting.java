@@ -1,5 +1,6 @@
 //Write a Java program to sort a numeric array.
 
+
 import java.util.Scanner;
 
 public class ArraySorting {
