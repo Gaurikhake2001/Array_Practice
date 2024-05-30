@@ -1,3 +1,5 @@
+//Write a Java program to remove a specific element from an array.
+
 import java.util.Arrays;
 import java.util.Scanner;
 
